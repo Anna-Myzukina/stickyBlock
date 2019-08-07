@@ -1,5 +1,7 @@
 # stickyBlock
 sticky block SASS
+https://scotch.io/tutorials/build-multiple-stacking-sticky-sidebars-with-pure-css-and-bootstrap-4
+
 Content Jumping
 I'm sure you've dealt with this before! There's always a couple bugs you hit.
 
