@@ -1,0 +1,31 @@
+.content {
+    float: left;
+    width: 70%;
+    background: #eaeaea;
+    min-height: 2500px;
+    padding: 50px;
+  }
+  .sidebar {
+    padding: 100px 25px;
+    width: 30%;
+    float: left;
+    background: darken(#e3e3e3, 50%);
+    
+    h2 {
+      background: pink;
+      text-align: center;
+      margin: 0;
+      padding: 50px;
+     
+    }
+    p {
+      color: #fff;
+    }
+  }
+  
+  
+  .is-sticky {
+    position: -webkit-sticky;
+    position: fixed;
+    top: 0;
+  }
